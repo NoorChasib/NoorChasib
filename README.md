@@ -23,12 +23,10 @@
 
 <br>
 
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm a junior full-stack web-developer based out of Victoria, BC</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I have a background in Microbiology and Event Management</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm particulary interested in app development</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm always looking to learn new things and try new experiences!</p>
 
 <br>
 </details>
