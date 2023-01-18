@@ -23,10 +23,33 @@
 
 <br>
 
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm a junior full-stack web-developer based out of Victoria, BC</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I have a background in Microbiology and Event Management</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm particulary interested in app development</p>
-<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;I'm always looking to learn new things and try new experiences!</p>
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=18&duration=3000&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=I'm+a+junior+full-stack+web-developer+based+out+of+Victoria%2C+BC" alt="Line 1" />
+</a>
+</p>	
+	
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=18&duration=3000&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=I+have+a+background+in+Microbiology+and+Event+Management" alt="Line 2" />
+</a>
+</p>
+	
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=18&duration=3000&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=I'm+particulary+interested+in+app+development" alt="Line 3" />
+</a>
+</p>
+	
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=18&duration=3000&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=I'm+always+looking+to+learn+new+things+and+try+new+experiences!" alt="Line 4" />
+</a>
+</p>
 
 <br>
 </details>
