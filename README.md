@@ -77,7 +77,7 @@
 <p>
 <a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>
 &nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=22&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=300&height=40&lines=What+I+use" alt="Line 5" />
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=21&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=300&height=40&lines=What+I+use" alt="Line 5" />
 </a>
 </p>
 
@@ -106,7 +106,12 @@
 
 <br>
 
-<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I'm learning</h3>
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=21&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=300&height=40&lines=What+I'm+currently+learning" alt="Line 6" />
+</a>
+</p>
 
 <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"></a>
@@ -115,7 +120,12 @@
 
 <br>
 
-<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I'd like to learn</h3>
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=21&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=300&height=40&lines=What+I'd+like+to+learn" alt="Line 7" />
+</a>
+</p>
 
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
