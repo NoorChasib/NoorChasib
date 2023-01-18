@@ -71,8 +71,15 @@
 	  </a>
 
   </summary>
-	
-<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I use</h3>
+  
+<br>	
+
+<p>
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>
+&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=22&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=300&height=40&lines=What+I+use" alt="Line 5" />
+</a>
+</p>
 
 <a href="#"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
