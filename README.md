@@ -1,10 +1,12 @@
-<p align="center">
+<div align="center">
+<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=36BCF7E1&center=true&vCenter=true&repeat=false&width=435&lines=Noor+Chasib" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=1100&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
+</div>
 
 <br>
 
