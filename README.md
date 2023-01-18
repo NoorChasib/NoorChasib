@@ -106,6 +106,7 @@
 
 
 <br>
+<br>
 
 <p>
 <a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>
@@ -119,6 +120,7 @@
 <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
 
 
+<br>
 <br>
 
 <p>
