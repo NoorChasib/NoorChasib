@@ -157,7 +157,6 @@
 </a>
 <br>
 <br>
-<br>
 <a href="#"> 
 <img align="bottom" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rightarrow.gif" width="30">
 </a>
