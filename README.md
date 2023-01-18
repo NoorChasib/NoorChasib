@@ -52,9 +52,10 @@
 </p>
 
 <br>
+<br>
 </details>
 
-<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="5"></a>
 
 <br>
 <br>
@@ -138,7 +139,7 @@
 <br>
 </details>
 
-<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="5"></a>
 
 <br>
 <br>
@@ -166,9 +167,10 @@
 </div>
 
 <br>
+<br>
 </details>
 
-<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="5"></a>
 
 <br>
 <br>
@@ -206,8 +208,9 @@
 <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
 <br>
+<br>
 </details>
-<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="5"></a>
 
 <br>
 <br>
