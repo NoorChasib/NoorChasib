@@ -112,8 +112,8 @@
 	
 <div align="center">
   <a href="https://github.com/NoorChasib/">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
+  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
+  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
   </a>
 </div>
 
@@ -142,8 +142,8 @@
 	
 <div align="center">
   <a href="https://github.com/NoorChasib/">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
+  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
+  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
   </a>
 </div>
 
