@@ -51,10 +51,23 @@
 
   </summary>
 	
-<h2><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</h2>
+<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I use</h3>
 
 <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 
+<br>
+
+<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I'm learning</h3>
+
+<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+
+<br>
+
+<h3><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/bulb.gif" width="25"></a>&nbsp;&nbsp;What I'd like to learn</h3>
+
+<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
