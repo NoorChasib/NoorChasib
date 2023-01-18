@@ -20,7 +20,6 @@
 <a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=About+Me" alt="About Me" /></a>
   </summary>
   
-<picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -30,9 +29,6 @@
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-<br>
-<br>
-<br>
 	
 </details>
 
@@ -126,7 +122,7 @@
 <br>
 
 
-<!-- Lets Connect -->
+<!-- Let's Connect -->
 
 <details> 
   <summary>
@@ -134,7 +130,7 @@
         <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
       </a>
 	  &nbsp;&nbsp;&nbsp;
-	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=Lets+Connect" alt="Lets Connect"/></a>
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=Let's+Connect" alt="Let's Connect"/></a>
 	  
   </summary>
 	
