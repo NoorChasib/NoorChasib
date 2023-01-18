@@ -24,11 +24,12 @@
 
 <br>
 
-<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow2.gif" width="20">A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website
-- I’m currently open for an Intern or a new job opportunity
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
+<p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
 <br>
 <br>
 <br>
