@@ -4,7 +4,7 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=1100&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Student;Bachelor+of+Science" alt="Typing SVG" /></a>
 </div>
 
-## <picture><img src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
 
