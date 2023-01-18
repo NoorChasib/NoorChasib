@@ -155,7 +155,7 @@
 <img align="bottom" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rightarrow.gif" width="30">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="linkedinWindow">
+<a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="_blank">
 <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;">
 </a>
 <br>
