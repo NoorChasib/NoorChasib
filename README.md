@@ -17,7 +17,7 @@
 	<img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
       </a>
       &nbsp;&nbsp;&nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&multiline=true&repeat=false&width=200&height=40&lines=About+Me" alt="About Me" /></a>
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=About+Me" alt="About Me" /></a>
   </summary>
   
 <picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
@@ -48,7 +48,7 @@
         <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="30">
       </a>
 	  &nbsp;&nbsp;&nbsp;
-	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=My+Stack" alt="My Stack"/></a>
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=My+Stack" alt="My Stack"/></a>
 	  </a>
 
   </summary>
@@ -103,7 +103,7 @@
         <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
       </a>
 	  &nbsp;&nbsp;&nbsp;
-	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Github+Stats" alt="Github Stats"/></a>
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=Github+Stats" alt="Github Stats"/></a>
 	  
   </summary>
 	
@@ -133,7 +133,7 @@
         <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
       </a>
 	  &nbsp;&nbsp;&nbsp;
-	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Lets+Connect" alt="Lets Connect"/></a>
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=Lets+Connect" alt="Lets Connect"/></a>
 	  
   </summary>
 	
