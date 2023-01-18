@@ -35,7 +35,7 @@
 	
 </details>
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1">
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
 
 <br>
 <br>
@@ -90,7 +90,7 @@
 	
 </details>
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1">
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
 
 <br>
 <br>
@@ -119,7 +119,7 @@
 
 </details>
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1">
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
 
 <br>
 <br>
@@ -148,7 +148,7 @@
 </div>
 
 </details>
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1">
+<a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
 
 <br>
 <br>
