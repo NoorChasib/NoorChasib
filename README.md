@@ -69,16 +69,11 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Learning in Progress 👨‍🎓
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Things I code with 👨🏻‍💻
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -96,7 +91,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 	
-<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+
 
 
 <br>
@@ -153,13 +148,9 @@
   <br>
   <br>
 	
-<div align="center">
-  <a href="https://github.com/NoorChasib/">   
-  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
-  <img height="180em" src="https://github-readme-stats-a4kc.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
-  </a>
-</div>
-
+<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+<br>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <br>
 </details>
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
