@@ -34,7 +34,7 @@
 
 </details>
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/lineDivide.gif" width="100%" height="0.5px">
+<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
 
 <details> 
   <summary>
@@ -52,7 +52,7 @@
 </details>
 
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5rem">
+<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
 
 ## <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width ="25"><b> My Stack</b>
 
@@ -181,13 +181,5 @@
   <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<br>
-
-<br>
-<br>
-<br>
-
----
 
 <br>
