@@ -1,28 +1,24 @@
-<div align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=36BCF7E1&center=true&vCenter=true&repeat=false&width=435&lines=Noor+Chasib" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=8000&color=36BCF7E1&center=true&vCenter=true&width=435&lines=Noor+Chasib" alt="Name" /></a>
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&center=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
+</p>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=1100&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Student;Bachelor+of+Science" alt="Typing SVG" /></a>
-</div>
-
+##
 
 <details> 
   <summary>
-    <h2>
+   <h2>
       <a href="#"> 
-        <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/chart.gif" width="35">
+	<img align="top" src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width="50px">
       </a>
         About me
     </h2>
 
   </summary>
   
-<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 
-</details>
-
----
-
-## <picture><img src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
 
@@ -33,10 +29,30 @@
 - Currently learning Web Development by Self
 - Personal website
 - I’m currently open for an Intern or a new job opportunity
+<br>
+<br>
 
-<br><br>
+</details>
 
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif"><br><br>
+<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/lineDivide.gif" width="100%" height="0.5px">
+
+<details> 
+  <summary>
+   <h2>
+      <a href="#"> 
+        <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/chart.gif" width="35">
+      </a>
+        About me
+    </h2>
+
+  </summary>
+	
+<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+
+</details>
+
+
+<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5rem">
 
 ## <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width ="25"><b> My Stack</b>
 
