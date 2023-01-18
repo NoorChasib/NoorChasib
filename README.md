@@ -4,7 +4,25 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=1100&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Student;Bachelor+of+Science" alt="Typing SVG" /></a>
 </div>
 
-<picture><img src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width = 50px></picture> **About me**
+
+<details> 
+  <summary>
+    <h2>
+      <a href="#"> 
+        <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/chart.gif" width="35">
+      </a>
+        About me
+    </h2>
+
+  </summary>
+  
+<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+
+</details>
+
+---
+
+## <picture><img src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/typing.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
 
@@ -149,9 +167,7 @@
   </summary>
   
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  
-  
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+
 </details>
 
 <br>
