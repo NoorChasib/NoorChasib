@@ -148,9 +148,17 @@
   <br>
   <br>
 	
-<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+<div>	
+<a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="_blank">
+<img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;>
+</a>
+</div>
 <br>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+<br>
+<br>
+<a href="mailto:noorchasib@gmail.com?subject=Found%20you%20on%20Github!&body=Hi%20Noor%2C" target="_blank">	
+<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" style="margin-bottom: 5px;>
+</a>
 <br>
 </details>
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
