@@ -24,7 +24,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+<a href="#"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow2.gif" width="20">A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website
