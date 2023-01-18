@@ -29,7 +29,8 @@
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
 <p><a href="#"><img align="left" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>&nbsp;&nbsp;Filler line goes here</p>
-	
+
+<br>
 </details>
 
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
@@ -84,7 +85,8 @@
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 	
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-	
+
+<br>
 </details>
 
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
@@ -114,6 +116,7 @@
   </a>
 </div>
 
+<br>
 </details>
 
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
@@ -144,6 +147,7 @@
   </a>
 </div>
 
+<br>
 </details>
 <a href="#"><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line3.gif" width="100%" height="1"></a>
 
