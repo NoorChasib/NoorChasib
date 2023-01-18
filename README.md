@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , my name is Noor </b><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=3000&pause=1100&color=31A8FF&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=3000&pause=1100&center=true&vCenter=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
 
 <br>
