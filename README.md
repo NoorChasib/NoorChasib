@@ -1,9 +1,9 @@
 <!-- Name Header -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=8000&color=36BCF7E1&center=true&vCenter=true&width=435&lines=Noor+Chasib" alt="Name" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=8000&color=36BCF7E1&center=true&vCenter=true&width=435&height=50&lines=Noor+Chasib" alt="Name" /></a>
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&center=true&width=600&height=100&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&center=true&width=600&height=50&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
 
 ##
@@ -12,13 +12,11 @@
 
 <details> 
   <summary>
-   <h2>
       <a href="#"> 
-	<img align="top" src = "https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="25">
+	<img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
       </a>
-        About me
-    </h2>
-
+      &nbsp;&nbsp;&nbsp;
+<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&multiline=true&repeat=false&width=200&height=40&lines=About+Me" alt="About Me" /></a>
   </summary>
   
 <picture> <img align="right" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/Right_Side.gif" width = 250px></picture>
@@ -32,21 +30,23 @@
 - I’m currently open for an Intern or a new job opportunity
 <br>
 <br>
-
+<br>
+	
 </details>
 
 <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
+<br>
 
 <!-- My Stack -->
 
 <details> 
   <summary>
-   <h2>
       <a href="#"> 
-        <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="25">
+        <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="30">
       </a>
-        My Stack
-    </h2>
+	  &nbsp;&nbsp;&nbsp;
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=My+Stack" alt="My Stack"/></a>
+	  </a>
 
   </summary>
 	
@@ -84,8 +84,6 @@
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 	
 <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<br>
-<br>
 	
 </details>
 
@@ -95,15 +93,17 @@
 
 <details> 
   <summary>
-    <h2>
       <a href="#"> 
-        <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/chart.gif" width="35">
+        <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
       </a>
-        Github Stats
-    </h2>
+	  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Github+Stats" alt="Github Stats" /></a>
 
   </summary>
   
+  <br>
+  <br>
+	
 <div align="center">
   <a href="https://github.com/NoorChasib/">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
@@ -119,6 +119,35 @@
 <br>
 
 <!-- Lets Connect -->
+
+<details> 
+  <summary>
+      <a href="#"> 
+        <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
+      </a>
+	  &nbsp;&nbsp;&nbsp;
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Lets+Connect" alt="Lets Connect"/></a>
+	  
+  </summary>
+	
+  <br>
+  <br>
+	
+<div align="center">
+  <a href="https://github.com/NoorChasib/">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoorChasib&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorChasib&layout=compact&show_icons=true&langs_count=8&line_height=20&theme=react" />
+  </a>
+</div>
+
+</details>
+
+<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
+
+<br>
+<br>
+
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/handshake.gif" width ="80">
 
