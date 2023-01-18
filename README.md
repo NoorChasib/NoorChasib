@@ -3,10 +3,11 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=8000&color=36BCF7E1&center=true&vCenter=true&width=435&height=50&lines=Noor+Chasib" alt="Name" /></a>
 </p>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&center=true&width=600&height=50&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&center=true&width=600&height=50&lines=Junior+Full-Stack+Web+Developer;Lighthouse+Labs+Student;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
 
 ##
+<br>
 
 <!-- About Me -->
 
@@ -35,6 +36,8 @@
 </details>
 
 <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
+
+<br>
 <br>
 
 <!-- My Stack -->
@@ -89,6 +92,9 @@
 
 <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
 
+<br>
+<br>
+
 <!-- Github Stats -->
 
 <details> 
@@ -97,10 +103,10 @@
         <img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
       </a>
 	  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Github+Stats" alt="Github Stats" /></a>
-
+	<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&pause=1500&color=C9D1D9&vCenter=true&repeat=false&width=200&height=40&lines=Github+Stats" alt="Github Stats"/></a>
+	  
   </summary>
-  
+	
   <br>
   <br>
 	
@@ -117,6 +123,7 @@
 
 <br>
 <br>
+
 
 <!-- Lets Connect -->
 
@@ -147,51 +154,3 @@
 <br>
 <br>
 
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/handshake.gif" width ="80">
-
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  -%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/line.gif" width="100%" height="0.5">
-<br>
-<br>
-<br>
-
-<!-- Snake Footer -->
-
-<div align="center">
-  <a href= "https://github.com/NoorChasib">
-  <img src="https://github.com/NoorChasib/NoorChasib/blob/main/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br>
