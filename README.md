@@ -82,8 +82,11 @@
 </a>
 </p>
 
+<a href="#"><img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
@@ -100,7 +103,9 @@
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Zapier" src="https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Zoho" src="https://img.shields.io/badge/-Zoho-C8202B?logo=zoho&logoColor=white&style=for-the-badge"></a>
 
@@ -115,7 +120,6 @@
 </a>
 </p>
 
-<a href="#"><img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
 
