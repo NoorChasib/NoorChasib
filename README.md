@@ -3,7 +3,7 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=10000&color=00AFF0E1&center=true&vCenter=true&width=435&height=50&lines=Noor+Chasib" alt="Name" /></a>
 </p>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&color=36BCF7&center=true&width=600&height=50&lines=Full-Stack+Web+Developer;Lighthouse+Labs+Student;Bachelor+of+Science" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&color=36BCF7&center=true&width=600&height=50&lines=Full-Stack+Web+Developer;Lighthouse+Labs+Graduate;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
 
 ##
