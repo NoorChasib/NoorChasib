@@ -142,7 +142,7 @@
 <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
+
 
 
 
