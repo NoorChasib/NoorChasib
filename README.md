@@ -17,7 +17,7 @@
 	<img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
       </a>
       &nbsp;&nbsp;&nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=About+Me" alt="About Me" /></a>
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=5000&color=C9D1D9&multiline=true&width=200&height=40&lines=About+Me" alt="About Me" /></a>
   </summary>
   
 
@@ -26,21 +26,21 @@
 <p>
 <a href="#/"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
 &nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Full-stack+web+developer+based+out+of+Victoria%2C+BC" alt="Line 1" />
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Full-stack+web+developer+based+out+of+Victoria%2C+BC" alt="Line 1" />
 </a>
 </p>	
 	
 <p>
 <a href="#/"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
 &nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Background+in+Microbiology+and+Event+Management" alt="Line 2" />
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Background+in+Microbiology+and+Event+Management" alt="Line 2" />
 </a>
 </p>
 	
 <p>
 <a href="#/"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
 &nbsp;
-<a href="#"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Particulary+interested+in+app+development" alt="Line 3" />
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Particulary+interested+in+app+development" alt="Line 3" />
 </a>
 </p>
 	
