@@ -105,7 +105,7 @@
 <a href="#/"><img alt="Rails" src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Sass" src="https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
@@ -124,6 +124,7 @@
 </a>
 </p>
 
+<a href="#/"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 
