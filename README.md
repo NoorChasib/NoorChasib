@@ -140,6 +140,11 @@
 </a>
 </p>
 
+<a href="#/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="C Sharp" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Java" src="https://img.shields.io/badge/-Java-ED1D25?logo=java&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"></a>
