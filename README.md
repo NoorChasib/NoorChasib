@@ -125,6 +125,7 @@
 </p>
 
 <a href="#/"><img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"></a>
+<a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 
@@ -145,7 +146,6 @@
 <a href="#/"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Java" src="https://img.shields.io/badge/-Java-ED1D25?logo=java&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-<a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge"></a>
 <a href="#/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"></a>
 
