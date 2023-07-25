@@ -3,7 +3,7 @@
 <a href="#/"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=10000&color=00AFF0E1&center=true&vCenter=true&width=435&height=50&lines=Noor+Chasib" alt="Name" /></a>
 </p>
 <p align="center">
-<a href="#/"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&color=36BCF7&center=true&width=600&height=50&lines=Full+Stack+Developer;Lighthouse+Labs;Bachelor+of+Science" alt="Typing SVG" /></a>
+<a href="#/"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&pause=1500&color=36BCF7&center=true&width=600&height=50&lines=Full+Stack+Developer;Government+of+BC;Bachelor+of+Science" alt="Typing SVG" /></a>
 </p>
 
 ##
@@ -26,7 +26,7 @@
 <p>
 <a href="#/"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
 &nbsp;
-<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Full-stack+web+developer+based+out+of+Victoria%2C+BC" alt="Line 1" />
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Full+Stack+Developer+based+out+of+Victoria%2C+BC" alt="Line 1" />
 </a>
 </p>	
 	
@@ -40,7 +40,7 @@
 <p>
 <a href="#/"><img align="middle" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/arrow6.gif" width="23"></a>
 &nbsp;
-<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Particulary+interested+in+app+development" alt="Line 3" />
+<a href="#/"><img align="top" src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=20&pause=5000&color=C9D1D9&multiline=true&repeat=false&width=800&height=40&lines=Currently+working+for+the+Government+of+BC" alt="Line 3" />
 </a>
 </p>
 	
