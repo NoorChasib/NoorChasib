@@ -5,7 +5,7 @@
 About Me
 </h1>
 
-<p>
+<p style="font-size: 1.2rem;">
 Full Stack Developer based in Vancouver, BC.
 <br>
 Trying to craft cool things and always learning.
@@ -39,12 +39,12 @@ Currently Exploring
   <a href="#/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h2>
+<h1>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
   </a>
 Let's Connect!
-</h2>
+</h1>
 
 <p>
   <a href="https://noorchasib.com" target="_blank" style="cursor: pointer;">
