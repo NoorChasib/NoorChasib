@@ -47,6 +47,7 @@ Currently Exploring
 Let's Connect!
 </h2>
 
+<p>
   <a href="https://noorchasib.com" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Website-1f3a54?logo=webflow&logoColor=white&style=for-the-badge">
   </a>
@@ -56,3 +57,4 @@ Let's Connect!
   <a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
+</p>
