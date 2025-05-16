@@ -1,20 +1,22 @@
-<h2>
+<h1>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
   </a>
 About Me
-</h2>
+</h1>
 
+<p>
 Full Stack Developer based in Vancouver, BC.
 <br>
 Trying to craft cool things and always learning.
+</p>
 
-<h2>
+<h1>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="30">
   </a>
 Tech I Work With
-</h2>
+</h1>
 
 <p>
   <a href="#/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
@@ -25,12 +27,12 @@ Tech I Work With
   <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h2>
+<h1>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
   </a>
 Currently Exploring
-</h2>
+</h1>
 
 <p>
   <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
@@ -45,7 +47,7 @@ Let's Connect!
 </h2>
 
 <p>
-  <a href="https://www.noorchasib.com" target="_blank" style="cursor: pointer;">
+  <a href="https://noorchasib.com" target="_blank" style="cursor: pointer;">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Website-1f3a54?logo=webflow&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:noor@noorchasib.com?subject=Found%20you%20on%20Github!&body=Hi%20Noor%2C" target="_blank" style="cursor: pointer;">	
