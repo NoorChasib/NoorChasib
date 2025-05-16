@@ -1,6 +1,6 @@
 <h2>
   <a href="#/"> 
-    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
+    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="25">
   </a>
 About Me
 </h2>
@@ -14,7 +14,7 @@ Trying to craft cool things and always learning.
 
 <h2>
   <a href="#/"> 
-    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="30">
+    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="25">
   </a>
 Tech I Work With
 </h2>
@@ -30,7 +30,7 @@ Tech I Work With
 
 <h2>
   <a href="#/"> 
-    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
+    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="25">
   </a>
 Currently Exploring
 </h2>
@@ -42,7 +42,7 @@ Currently Exploring
 
 <h2>
   <a href="#/"> 
-    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
+    <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="25">
   </a>
 Let's Connect!
 </h2>
