@@ -5,11 +5,11 @@
 About Me
 </h1>
 
-<p style="font-size: 1.2rem;">
+<h4 style="font-weight: normal;">
 Full Stack Developer based in Vancouver, BC.
 <br>
 Trying to craft cool things and always learning.
-</p>
+</h4>
 
 <h1>
   <a href="#/"> 
