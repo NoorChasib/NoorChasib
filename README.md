@@ -44,7 +44,7 @@ Currently Exploring
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="25">
   </a>
-Let's Connect!
+Let's Connect
 </h2>
 
 <p>
