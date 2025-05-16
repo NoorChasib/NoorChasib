@@ -48,13 +48,13 @@ Let's Connect!
 </h2>
 
 <p>
-  <a href="https://noorchasib.com" target="_blank" style="margin-bottom: 5px;">
+  <a href="https://noorchasib.com" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Website-1f3a54?logo=webflow&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:noor@noorchasib.com?subject=Found%20you%20on%20Github!&body=Hi%20Noor%2C" target="_blank" style="margin-bottom: 5px;">	
+  <a href="mailto:noor@noorchasib.com?subject=Found%20you%20on%20Github!&body=Hi%20Noor%2C" target="_blank">	
     <img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="_blank" style="margin-bottom: 5px;">
+  <a href="https://www.linkedin.com/in/noor-chasib-1875131b1/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </p>
