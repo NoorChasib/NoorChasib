@@ -1,9 +1,9 @@
-<h1>
+<h2>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/about_me.gif" width="30">
   </a>
 About Me
-</h1>
+</h2>
 
 <p>
 Full Stack Developer based in Vancouver, BC.
@@ -12,12 +12,12 @@ Full Stack Developer based in Vancouver, BC.
 Trying to craft cool things and always learning.
 </p>
 
-<h1>
+<h2>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/skills.gif" width="30">
   </a>
 Tech I Work With
-</h1>
+</h2>
 
 <p>
   <a href="#/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
@@ -28,24 +28,24 @@ Tech I Work With
   <a href="#/"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h1>
+<h2>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/rocket.gif" width="30">
   </a>
 Currently Exploring
-</h1>
+</h2>
 
 <p>
   <a href="#/"><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
   <a href="#/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h1>
+<h2>
   <a href="#/"> 
     <img align="top" src="https://github.com/NoorChasib/NoorChasib/blob/main/img/waving.gif" width="30">
   </a>
 Let's Connect!
-</h1>
+</h2>
 
 <p>
   <a href="https://noorchasib.com" target="_blank" style="cursor: pointer;">
